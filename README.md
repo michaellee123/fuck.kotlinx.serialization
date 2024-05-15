@@ -1,2 +1,3 @@
 # fuck.kotlinx.serialization
-kotlinx.serialization is the dumbest JSON serialization tool in the world.
+
+kotlinx.serialization is the goddamn dumbest JSON serialization tool ever created! I swear, the first damn time I encountered this garbage, the whole damn library crashed just because there were a few extra fields in the JSON compared to the damn object. Like seriously, what the hell were they thinking? You gotta manually add `ignoreUnknownKeys=true` just to avoid this bullcrap. And don't even get me started on why the hell `ignoreUnknownKeys` default value would be false! Like, what kind of idiotic design is that, throwing errors over some extra fields? This is some next-level bullshit implementation!
